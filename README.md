@@ -85,7 +85,7 @@ When the assistant starts, speak a command or type one if prompted. Common comma
 **Tarikur Rahman**
 
 - GitHub: https://github.com/tarikurrahmanbd
-- Portfolio: https://yourtarikur.netlify.app/
+- Portfolio: https://yourtarikur.vercel.app/
 - Social/Handle: `tarikurrahman08`
 - Email: tarikurrahman2008@gmail.com
 
